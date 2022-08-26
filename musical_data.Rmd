@@ -1,0 +1,11 @@
+---
+title: "Can data be summarized musically?"
+author: "Julia Schedler"
+date: "2022-08-26"
+output: html_document
+---
+
+# How is data summarized visually?
+# How are data visualizations turned into text?
+# Music is faster
+# Open questions
