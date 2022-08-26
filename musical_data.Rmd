@@ -1,5 +1,10 @@
 ---
 title: "Can data be summarized musically?"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+    encoding=encoding,
+    output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 author: "Julia Schedler"
 date: "2022-08-26"
 output: html_document
